@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="statistics",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="LucasMGuima",
+    author_email="lucasmguima@outlook.com",
+    description="The package has the purpose of help calculate statistics",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/LucasMGuima/statistics-package",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
