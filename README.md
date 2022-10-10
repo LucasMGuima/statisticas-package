@@ -1,6 +1,6 @@
-# Statistics
+# Statisticas
 Description. 
-The package statistics is used to:
+The package Statisticas is used to:
 	- Calculate the central trend measure
 	- Calculate the dispersion measure
 
@@ -9,7 +9,7 @@ The package statistics is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install statisitcs
 
 ```bash
-pip install statistics
+pip install statisticas
 ```
 
 ## Author
